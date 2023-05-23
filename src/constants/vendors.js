@@ -1,0 +1,2 @@
+export const BREAD_INCORPORATED = 'BREAD_INCORPORATED';
+export const PASTA_LAND = 'PASTA_LAND';
