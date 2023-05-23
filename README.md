@@ -1,3 +1,1 @@
-# barrel_pattern_demo
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/thecharacterv-barrel-pattern)
+This is a demo application for how to set up barrel files in a React application. To follow along, watch the tutorial at https://youtu.be/YCH5zdy_1_4
